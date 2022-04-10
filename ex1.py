@@ -12,3 +12,5 @@ print('First modification for 2nd commit')
 print('Added this line of code from Bakare from git terminal')
 #........................................
 print('added first line of code from techteam1 branch')
+#..Add x = 100 
+x = 100
